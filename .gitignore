@@ -9,3 +9,6 @@ venv/
 
 # Emacs
 *~
+
+# Visual Studio
+.vscode/
