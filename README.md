@@ -49,3 +49,5 @@ When you're reading for Decision Bot to make a decision, tell him ```Make a deci
 
 
 ![Screenshot](screenshot.png)
+
+<p align="center"><img src="screenshot2.jpeg" width="300"></p>
