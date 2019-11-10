@@ -24,8 +24,10 @@ Don't waste your time, let our Decision Bot decide!
 ## How to use Decision Bot
 
 1. Add Decision Bot to your group chat.
-2. Have your friends text "Add me" to the group! 
-3. Send a text in the following format: (Send up to 9 choices!)
+2. Have your friends text ```Add me``` to add themselves the group!
+
+### Decide in 2 different ways!
+* Send a text in the following format and Decision Bot will automatically choose (Send up to 9 choices!)
 ```
 Help me decide!
 1. Option 1
@@ -34,8 +36,10 @@ Help me decide!
 ......
 
 ```
+* <b>OR</b> you and your friends can add options manually by sending ```Add: {option}```.
+When you're reading for Decision Bot to make a decision, tell him ```Make a decision!```
 
-4. Decision box with send a text message to each person in the group with the decision he chooses!
-5. Send "Deactivate" to stop receiving decision messages or just remove Decision Bot from the group.
+4. Decision box will send a text message to each person in the group with the decision he chooses!
+5. Send ```Deactivate``` to stop receiving decision messages or just remove Decision Bot from the group.
 
 
