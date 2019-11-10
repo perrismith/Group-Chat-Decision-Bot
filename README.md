@@ -20,7 +20,11 @@ Decide alone or with friends!
 1. Clone the repository and install the ```requirements.txt``` dependencies.
 2. Run ```./ngrok http 5000``` (or whichever port your web application will run on)
 3. Copy your ngrok url and paste that into your Twilio Number's webhook form. Add "/sms" to the end of this url.
-4. Run your app with ```python3 app.py```
+4. Store your Twilio credentials and phone number using environment variables
+```
+export TWILIO_SID=999999999999999999999999 
+```
+5. Run your app with ```python3 app.py```
 
 ## How to use Decision Bot
 
