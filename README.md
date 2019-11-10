@@ -7,12 +7,13 @@
 How many times have you tried to make plans in the group chat but no one could agree on one thing? :'(
 Don't waste your time, let our Decision Bot decide!
 
+Decide alone or with friends!
+
 
 ## Requires
 * A Twilio Account
 * ngrok
 * A Phone
-* Friends
 
 ## Setup
 
@@ -43,3 +44,4 @@ When you're reading for Decision Bot to make a decision, tell him ```Make a deci
 5. Send ```Deactivate``` to stop receiving decision messages or just remove Decision Bot from the group.
 
 
+![Screenshot](screenshot.png)
